@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vishakhakadus
+- 👋 Hi, I’m @VishakhaJain
 - 👀 I’m interested in Python / Java
 - 🌱 I’m currently learning Ruby 
 - 💞️ I’m looking to collaborate on Python 
