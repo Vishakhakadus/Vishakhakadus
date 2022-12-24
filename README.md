@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @VishakhaKadus
+- 😎 VICE CEO OF DATA SOFTWARE PVT LTD..!
 - 👀 I’m interested in Python / Java
 - 🌱 I’m currently learning Ruby 
 - 💞️ I’m looking to collaborate on Python 
